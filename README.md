@@ -18,4 +18,4 @@ y= pywt.waverec(coeffs,’wavelet’,mode = ‘sym’) , here this is used for i
 
 | Single Level transform       | Multi-level Transform       |
 |------------|-------------|
-|<img src="single_level.png" width="400"> | <img src="multi_level.png" width="400">|
+|<img src="s1.png" width="400"> | <img src="m1.png" width="400">|
