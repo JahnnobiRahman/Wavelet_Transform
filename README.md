@@ -15,3 +15,7 @@ When level = 3 , means there will be 3  decompositions of the signal. x is the i
 
 y= pywt.waverec(coeffs,’wavelet’,mode = ‘sym’) , here this is used for inverse wavelength transform. 
 
+
+| Single Level transform       | Multi-level Transform       |
+|------------|-------------|
+|<img src="single_level.png" width="400"> | <img src="multi_level.png" width="400">|
